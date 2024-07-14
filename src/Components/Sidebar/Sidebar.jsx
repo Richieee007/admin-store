@@ -28,7 +28,7 @@ const Sidebar = () => {
         </div>
         </Link>
          </div>
-        <Link to={'/'} style={{textDecoration:'none'}}>
+        <Link to={'https://frontend-ecom-store-final-version.vercel.app/'} style={{textDecoration:'none'}}>
         <div className="sidebar-item homepage-btn">
             <img src={settings_icon} alt="" />
             <p>Home Page</p>
